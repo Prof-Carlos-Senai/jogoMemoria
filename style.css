@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to left bottom, rgb(136, 195, 255),rgb(89, 172, 255),rgb(3, 129, 254));
+    height: 100vh;
+    
+}
+header{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 4px;
+    padding: 4px;
+}
+.texto{
+    color: white;
+    font-size: 1.2rem;
+
+}
+select{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.areaJogo{
+    display: flex;
+    justify-content: center;
+}
